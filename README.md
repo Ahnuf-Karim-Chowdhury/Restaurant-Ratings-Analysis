@@ -198,6 +198,3 @@ Food_Rating_Category = SWITCH(
 ![Restaurant Ratings Analysis_page-0003](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/e5d81101-0b31-4969-8556-904dcf398737)
 ![Restaurant Ratings Analysis_page-0004](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/800542ef-077e-4ed1-947e-b3e3cd7b825d)
 ![Restaurant Ratings Analysis_page-0005](https://github.com/karlyndiary/Restaurant-Ratings-Analysis/assets/116041695/55afce3c-8178-4868-9269-0c4e716d8110)
-
-#   R e s t a u r a n t - R a t i n g s - A n a l y s i s  
- 
